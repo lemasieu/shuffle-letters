@@ -4,7 +4,7 @@ A simple, interactive web tool that shuffles the letters of any word you enter a
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://www.xn--msiu-goa8b.vn/github/shuffle-letters](https://www.xn--msiu-goa8b.vn/github/shuffle-letters)
+Check out the live demo: [https://www.sieu.io.vn/github/shuffle-letters](https://www.sieu.io.vn/github/shuffle-letters)
 
 ## ✨ Features
 
